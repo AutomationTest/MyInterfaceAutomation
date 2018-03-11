@@ -1,0 +1,2 @@
+# MyInterfaceAutomation
+it's test
